@@ -1,0 +1,19 @@
+{
+    "schemaVersion": 1,
+    "packages": [
+      "com.android.chrome",
+      "org.mozilla.firefox",
+      "org.mozilla.fenix",
+      "com.brave.browser",
+      "com.opera.browser",
+      "com.opera.mini.native",
+      "com.microsoft.emmx",
+      "com.vivaldi.browser",
+      "com.duckduckgo.mobile.android",
+      "org.torproject.torbrowser",
+      "com.UCMobile.intl",
+      "com.kiwibrowser.browser",
+      "com.sec.android.app.sbrowser",
+      "com.mi.globalbrowser"
+    ]
+  }
