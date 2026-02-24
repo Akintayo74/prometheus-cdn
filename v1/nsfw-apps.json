@@ -10,6 +10,7 @@
       { "packageName": "com.snapchat.android",    "displayName": "Snapchat",    "reason": "Discover + user-shared content" },
       { "packageName": "org.telegram.messenger",  "displayName": "Telegram",    "reason": "Unmoderated channels" },
       { "packageName": "com.discord",             "displayName": "Discord",     "reason": "NSFW servers and channels" },
-      { "packageName": "kik.android",             "displayName": "Kik",         "reason": "Adult content sharing" }
+      { "packageName": "kik.android",             "displayName": "Kik",         "reason": "Adult content sharing" },
+      { "packageName": "xyz.blueskyweb.app",     "displayName": "Bluesky",     "reason": "NSFW content in feeds" }
     ]
   }

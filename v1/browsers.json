@@ -15,5 +15,9 @@
       "com.kiwibrowser.browser",
       "com.sec.android.app.sbrowser",
       "com.mi.globalbrowser"
+    ],
+    "excludedPackages": [
+      "team.opay.pay",
+      "com.kudabank.app"
     ]
   }
