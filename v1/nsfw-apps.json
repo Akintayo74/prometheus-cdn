@@ -6,7 +6,7 @@
       { "packageName": "com.instagram.android",   "displayName": "Instagram",   "reason": "NSFW reels, explore, accounts" },
       { "packageName": "com.zhiliaoapp.musically", "displayName": "TikTok",     "reason": "Algorithm surfaces suggestive content" },
       { "packageName": "com.tumblr",              "displayName": "Tumblr",      "reason": "Adult content re-allowed" },
-      { "packageName": "com.pinterest",           "displayName": "Pinterest",   "reason": "Adult content accessible" },
+      { "packageName": "com.google.android.youtube", "displayName": "YouTube",  "reason": "Algorithm surfaces suggestive content" },
       { "packageName": "com.snapchat.android",    "displayName": "Snapchat",    "reason": "Discover + user-shared content" },
       { "packageName": "org.telegram.messenger",  "displayName": "Telegram",    "reason": "Unmoderated channels" },
       { "packageName": "com.discord",             "displayName": "Discord",     "reason": "NSFW servers and channels" },

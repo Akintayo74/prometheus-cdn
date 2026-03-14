@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-02-24T16:05:55Z",
+  "updatedAt": "2026-03-14T16:39:03Z",
   "lists": {
     "blocklist": {
-      "version": 2,
+      "version": 3,
       "file": "blocklist.txt",
       "sha256": "ea09f74329bc6ef287a8b8b183c8eb26ed3bad47b1e77034eaee520ee60a8f4b",
       "sizeBytes": 1339817
     },
     "nsfwApps": {
-      "version": 2,
+      "version": 3,
       "file": "nsfw-apps.json",
-      "sha256": "e4579d06a8ef8f663af21d5a51286bc71085992e1b5a7991f9a60be5921f629e",
-      "sizeBytes": 1382
+      "sha256": "103f7b91b7f7ca40d7efbe366f113f67d5f82c81e83ca56fdf6b619d7f7960b0",
+      "sizeBytes": 1395
     },
     "browsers": {
-      "version": 2,
+      "version": 3,
       "file": "browsers.json",
       "sha256": "07bac4d2c9ab8c7fdc809cc0809d40fef2c235ec318d50217150dc92367372ab",
       "sizeBytes": 561
