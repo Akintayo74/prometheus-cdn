@@ -4,6 +4,7 @@
       { "packageName": "com.reddit.frontpage",    "displayName": "Reddit",      "reason": "NSFW communities and posts" },
       { "packageName": "com.twitter.android",     "displayName": "X (Twitter)", "reason": "Adult content in feeds" },
       { "packageName": "com.instagram.android",   "displayName": "Instagram",   "reason": "NSFW reels, explore, accounts" },
+      { "packageName": "com.pinterest",           "displayName": "Pinterest",   "reason": "Algorithm surfaces suggestive imagery" },
       { "packageName": "com.zhiliaoapp.musically", "displayName": "TikTok",     "reason": "Algorithm surfaces suggestive content" },
       { "packageName": "com.tumblr",              "displayName": "Tumblr",      "reason": "Adult content re-allowed" },
       { "packageName": "com.google.android.youtube", "displayName": "YouTube",  "reason": "Algorithm surfaces suggestive content" },
