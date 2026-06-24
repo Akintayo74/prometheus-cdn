@@ -2,6 +2,7 @@
     "schemaVersion": 1,
     "packages": [
       "com.android.chrome",
+      "com.google.android.googlequicksearchbox",
       "org.mozilla.firefox",
       "org.mozilla.fenix",
       "com.brave.browser",
