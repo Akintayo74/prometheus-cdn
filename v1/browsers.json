@@ -15,7 +15,11 @@
       "com.UCMobile.intl",
       "com.kiwibrowser.browser",
       "com.sec.android.app.sbrowser",
-      "com.mi.globalbrowser"
+      "com.mi.globalbrowser",
+      "com.cloudmosa.puffinFree",
+      "com.aloha.browser",
+      "com.yandex.browser",
+      "com.transsion.phoenix"
     ],
     "excludedPackages": [
       "team.opay.pay",

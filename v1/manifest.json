@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-24T18:18:23Z",
+  "updatedAt": "2026-06-25T10:13:32Z",
   "lists": {
     "blocklist": {
       "version": 4,
@@ -15,10 +15,10 @@
       "sizeBytes": 1528
     },
     "browsers": {
-      "version": 5,
+      "version": 6,
       "file": "browsers.json",
-      "sha256": "bb778dd5d5377039179ecb16cba0be52e52aa9a7358726bb6b2761339feb9acd",
-      "sizeBytes": 610
+      "sha256": "ae421fdbee66c01e93a2b72701e964b23ecbbda3ca8e54a12224a9732ff804b6",
+      "sizeBytes": 730
     },
     "firefoxExtensions": {
       "version": 1,
